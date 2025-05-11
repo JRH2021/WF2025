@@ -1,0 +1,348 @@
+
+/*-----Text Styling----*/
+
+body {
+   font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+    color:#1D2851;
+}
+
+h1.h1-homepage {
+    font-size:1.8em;
+    font-weight: 700;
+    color:#303F89;
+    text-decoration: underline;
+}
+
+h1.h1-homepage:hover {
+    color:#36489c;
+}
+
+.h1-secondary-pages {
+    font-size:2.8em;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+h2 {
+    color:#303f89;
+    padding-top:10px;
+}
+
+h3 {
+    color:#303f89;
+}
+
+h4 {
+    color:#303f89;
+}
+
+p {
+    font-size:1.1em;
+    font-weight:500;
+    line-height:1.7em;
+}
+
+a {
+    text-decoration: underline;
+}
+
+.homepage-links {
+    text-decoration:none;
+}
+
+.tagline p {
+    text-align:center;
+    color:#1D2851;
+    font-size:2.0em;
+    font-weight: 600;
+}
+
+.footer-text {
+    text-align: center;
+    font-size:0.8em;
+}
+
+/*-----Top Navbar Styling----*/
+
+.navbar-nav .nav-item .nav-link {
+    padding-left:14px;
+    padding-right:14px;
+    font-weight: 600;
+    color:#1D2851;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color:#303F89;
+}
+
+.navbar-nav .nav-item {
+    margin:10px 0;
+}
+
+.nav .nav-item .nav-link {
+    padding-left:14px;
+    padding-right:14px;
+    font-weight: 600;
+    color:#1D2851;
+}
+
+.nav .nav-item .nav-link:hover {
+    color:#303F89;
+}
+
+.nav .nav-item {
+    margin:10px 0;
+}
+
+.btn {
+    background-color:#70a01c;
+}
+
+.btn:hover {
+    background-color:#688c18;
+}
+
+.menu-text span {
+    padding-left:56px;
+    margin-top:7px;
+    font-weight: 600;
+}
+
+#donate-button, #donate-button-mobile, .purchase-button {
+    background-color:#70a01c;
+    color:#fff;
+    font-weight: 600;
+    padding:9px 20px;
+    border-radius: 5px;
+    transition-duration: 0.4s;
+    text-decoration:none;
+}
+
+#donate-button:hover, #donate-button-mobile:hover, .purchase-button:hover {
+    background-color:#688c18;
+}
+
+
+.dropdown-divider {
+    border-top: 1px solid #999999;
+}
+
+.last-dropdown-divider {
+    margin-bottom:15px;
+}
+
+
+
+
+
+/*-----Image Styling----*/
+
+
+.wf-logo {
+    width:80%;
+    height:auto;
+    padding-top:20px;
+    /*max-height:500px;*/
+}
+
+.hero-image {
+    width:100%;
+    height:auto;
+    /*width:1100px;
+    height:660px;*/
+    object-fit: cover;
+    max-height:530px;
+}
+
+.social-media-logos {
+    text-align: center;
+    margin-bottom:15px;
+}
+
+.social-media-logo-size {
+    width:15%;
+    height:auto;
+    padding:10px;
+}
+
+.homepage-icon {
+    display:block;
+    margin:auto;
+    width:40%;
+    margin-bottom: -20px;
+}
+
+h1 img {
+    padding-left:4px;
+    padding-bottom:4px;
+}
+
+/*img.chevron-icon {
+    margin-left:6px;
+}*/
+
+img.hbp-donate-button {
+    width:82%;
+    height:auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.inline-photo {
+    float:left;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 9px;
+}
+
+
+/*-----Layout Styling----*/
+
+
+.hero-background {
+    /*background-color: #1D2851;*/
+    background-color: #fff;
+}
+
+.hero-image-background {
+    padding:0;
+}
+
+.homepage-icon-row {
+    margin-bottom:30px;
+}
+
+.logo-background {
+    background-color: #303F89;
+    height:100%;
+    /*max-height:530px;*/
+}
+
+/*.logos-container {
+    width:100%;
+    height:auto;
+    max-height:500px;
+}*/
+
+.nav {
+    margin:0 auto;
+}
+
+.tagline {
+    margin:30px 0 20px 0;
+}
+
+.homepage-colored-block {
+    padding:20px 30px 0 30px;
+    border-bottom: 30px solid white;
+}
+
+.mission-vision-block {
+    background-color:#DEE4FC;
+    height:100%;
+}
+
+.community-projects-block {
+    background-color:#FFF7A2;
+    height:100%;
+    /*margin:0px 26px;*/
+}
+
+.donate-block {
+    background-color:#D9F7B5;
+    height:100%;
+}
+
+.buddhist-philosophy-block {
+    background-color:#F9D7E2;
+    height:100%;
+}
+
+.medical-education-block {
+    background-color:#F9DFA5;
+    height:100%;
+}
+
+.books-publications-block {
+    background-color:#E6E6D4;
+    height:100%;
+}
+
+.footer-section {
+    margin-top:40px;
+    margin-bottom:40px;
+}
+
+.main-content-area-column {
+    padding-right:40px;
+}
+
+.line-break {
+    display:none;
+}
+
+.line-break-2 {
+    display:none;
+}
+
+
+/*-----Publication Page Styling----*/
+
+.book-cover {
+    float:left;
+    padding-right:30px;
+    padding-bottom:20px;
+}
+
+/*.purchase-button {
+    background-color:#70a01c;
+    color:#fff;
+    padding:10px 20px;
+    border:none;
+    border-radius: 8px;
+}
+
+.purchase-button:hover {
+    background-color:#698b24;
+}*/
+
+.book-price {
+    font-size:2em;
+}
+
+table {
+    width:50%;
+    margin:20px 0;
+  }
+
+table, td {
+    border: none;
+  }
+
+td {
+    height:33px;
+}
+
+.wider-table {
+    width:65%;
+}
+
+/*-----Donate Page Styling----*/
+
+.h3-donate-page {
+    color:#698b24;
+    margin-bottom:20px;
+}
+
+
+
+/*
+.wf-logo {
+    width:80%;
+    height:auto;
+    margin:0 auto;
+}*/
+

@@ -1,0 +1,835 @@
+@media screen and (min-width: 345px) {
+   
+   .main-content-area-column {
+      padding:0 20px;
+   }
+   
+   .h1-secondary-pages {
+      padding:0 0 0 10px;
+   }
+   
+}
+
+@media screen and (min-width: 420px) {
+   
+   img.hbp-donate-button {
+      width: 72%;
+   }
+   
+}
+
+@media screen and (min-width: 476px) {
+   
+   img.hbp-donate-button {
+      width: 62%;
+   }
+   
+}
+
+@media screen and (min-width: 576px) {
+   
+   img.hbp-donate-button {
+      width: 50%;
+   }
+   
+}
+
+@media screen and (min-width: 636px) {
+   
+   img.hbp-donate-button {
+      width: 44%;
+   }
+   
+}
+
+@media screen and (min-width: 670px) {
+   
+   img.hbp-donate-button {
+      width: 40%;
+   }
+   
+}
+
+@media screen and (min-width: 750px) {
+   
+   img.hbp-donate-button {
+      width: 33%;
+   }
+   
+}
+
+@media screen and (min-width: 992px) {
+   
+   img.hbp-donate-button {
+      width: 74%;
+   }
+   
+}
+
+@media screen and (min-width: 992px) {
+   
+   .navbar-nav .nav-item .nav-link {
+      padding-right:20px;
+   }
+   
+}
+
+@media screen and (min-width: 1030px) {
+   
+   .navbar-nav .nav-item .nav-link {
+      padding-right:27px;
+   }
+   
+}
+
+@media screen and (min-width: 1090px) {
+   
+   .navbar-nav .nav-item .nav-link {
+      padding-right:38px;
+   }
+   
+}
+
+@media screen and (min-width: 1136px) {
+   
+   .navbar-nav .nav-item .nav-link {
+      padding-right:48px;
+   }
+   
+}
+
+@media screen and (min-width: 1188px) {
+   
+   .navbar-nav .nav-item .nav-link {
+      padding-right:59px;
+   }
+   
+}
+
+@media screen and (min-width: 1226px) {
+   
+   .navbar-nav .nav-item .nav-link {
+      padding-right:67px;
+   }
+   
+}
+
+@media screen and (min-width: 1276px) {
+   
+   .navbar-nav .nav-item .nav-link {
+      padding-right:76px;
+   }
+   
+}
+
+@media screen and (min-width: 345px) {
+   
+   .social-media-logo-size {
+      width: 20%;
+   }
+   
+}
+
+@media screen and (min-width: 440px) {
+   
+   .social-media-logo-size {
+      width: 16%;
+   }
+   
+}
+
+
+
+@media screen and (min-width: 375px) {
+   
+   .tagline p {
+      font-size: 1.8em;
+      line-height: 1.3em;
+   }
+    
+    .homepage-colored-block {
+       padding-bottom:7px;
+    }
+   
+}
+
+ @media screen and (max-width: 838px) {
+   
+   .tagline p {
+      font-size: 1.8em;
+      line-height: 1.3em;
+   }
+
+}
+
+@media screen and (max-width: 504px) {
+   
+   .tagline p {
+      font-size: 1.7em;
+      line-height: 1.3em;
+   }
+   
+   .tagline {
+      margin-top:22px;
+      margin-bottom:10px;
+   }
+
+}
+
+@media screen and (max-width: 478px) {
+   
+   .tagline p {
+      font-size: 1.6em;
+      line-height: 1.3em;
+   }
+   
+}
+
+@media screen and (max-width: 452px) {
+   
+   .tagline p {
+      font-size: 1.5em;
+      line-height: 1.3em;
+   }
+   
+}
+
+@media screen and (max-width: 425px) {
+   
+   .tagline p {
+      font-size: 1.4em;
+      line-height: 1.3em;
+   }
+   
+}
+
+@media screen and (max-width: 400px) {
+   
+   .tagline p {
+      font-size: 1.3em;
+      line-height: 1.3em;
+   }
+   
+}
+
+@media screen and (min-width: 345px) {
+   
+   .homepage-icon {
+      width: 66%;
+   }
+   
+}
+
+@media screen and (min-width: 360px) {
+   
+   .homepage-icon {
+      width: 55%;
+   }
+   
+}
+
+@media screen and (min-width: 400px) {
+   
+   .homepage-icon {
+      width: 53%;
+   }
+   
+}
+
+@media screen and (min-width: 450px) {
+   
+   .homepage-icon {
+      width: 42%;
+   }
+   
+}
+
+@media screen and (min-width: 500px) {
+   
+   .homepage-icon {
+      width: 41%;
+   }
+   
+}
+
+@media screen and (min-width: 500px) {
+   
+   .homepage-icon {
+      width: 37%;
+   }
+   
+}
+
+@media screen and (min-width: 576px) {
+   
+   .homepage-icon {
+      width: 66%;
+   }
+   
+}
+
+@media screen and (min-width: 669px) {
+   
+   .homepage-icon {
+      width: 56%;
+   }
+   
+}
+
+@media screen and (min-width: 770px) {
+   
+   .homepage-icon {
+      width: 45%;
+   }
+   
+}
+
+@media screen and (min-width: 992px) {
+   
+   .homepage-icon {
+      width: 58%;
+   }
+   
+}
+
+@media screen and (min-width: 1200px) {
+   
+   .homepage-icon {
+      width: 48%;
+   }
+   
+}
+
+@media screen and (min-width: 1300px) {
+   
+   .homepage-icon {
+      width: 42%;
+   }
+   
+}
+
+@media screen and (min-width: 576px) {
+   
+   .community-projects-paragraph {
+      padding-bottom: 23px;
+   }
+   
+}
+
+@media screen and (min-width: 577px) {
+   
+   .community-projects-paragraph {
+      padding-bottom: 49px;
+   }
+   
+}
+
+@media screen and (min-width: 600px) {
+   
+   .community-projects-paragraph {
+      padding-bottom: 22px;
+   }
+   
+}
+
+@media screen and (min-width: 576px) {
+   
+   .medical-education-paragraph {
+      padding-bottom: 23px;
+   }
+   
+}
+
+@media screen and (min-width: 599px) {
+   
+   .buddhist-philosophy-paragraph {
+      padding-bottom: 23px;
+   }
+   
+}
+
+@media screen and (min-width: 605px) {
+   
+   .buddhist-philosophy-paragraph {
+      padding-bottom: 0;
+   }
+   
+}
+
+@media screen and (min-width: 614px) {
+   
+   .medical-education-paragraph {
+      padding-bottom: 53px;
+   }
+   
+}
+
+@media screen and (min-width: 629px) {
+   
+   .medical-education-paragraph {
+      padding-bottom: 27px;
+   }
+   
+}
+
+@media screen and (min-width: 669px) {
+   
+   .buddhist-philosophy-paragraph {
+      padding-bottom: 23px;
+   }
+   
+}
+
+@media screen and (min-width: 672px) {
+   
+   .medical-education-paragraph {
+      padding-bottom: 60px;
+   }
+   
+}
+
+@media screen and (min-width: 702px) {
+   
+   .donate-paragraph {
+      padding-bottom: 20px;
+   }
+   
+}
+
+@media screen and (min-width: 708px) {
+
+   .medical-education-paragraph {
+      padding-bottom: 44px;
+   }
+   
+   .books-publications-paragraph {
+      padding-bottom: 10px;
+   }
+
+   .buddhist-philosophy-paragraph {
+      padding-bottom: 19px;
+   }
+   
+}
+
+@media screen and (min-width: 717px) {
+   
+   .community-projects-paragraph {
+      padding-bottom: 0;
+   }
+
+   .mission-vision-paragraph {
+      padding-bottom: 9px;
+   }
+   
+}
+
+@media screen and (min-width: 720px) {
+   
+   .community-projects-paragraph {
+      padding-bottom: 6px;
+   }
+   
+}
+
+@media screen and (min-width: 726px) {
+   
+   .community-projects-paragraph {
+      padding-bottom: 34px;
+   }
+   
+}
+
+@media screen and (min-width: 728px) {
+
+   .donate-paragraph {
+      padding-bottom: 8px;
+   }
+   
+   .buddhist-philosophy-paragraph {
+      padding-bottom: 41px;
+   }
+   
+}
+
+@media screen and (min-width: 740px) {
+
+   .medical-education-paragraph {
+      padding-bottom: 12px;
+   }
+   
+}
+
+@media screen and (min-width: 770px) {
+
+   .buddhist-philosophy-paragraph {
+      padding-bottom: 5px;
+   }
+
+   .medical-education-paragraph {
+      padding-bottom: 36px;
+   }
+   
+}
+
+@media screen and (min-width: 861px) {
+
+   .community-projects-paragraph {
+      padding-bottom: 7px;
+   }
+   
+}
+
+@media screen and (min-width: 955px) {
+
+   .community-projects-paragraph {
+      padding-bottom: 33px;
+   }
+   
+}
+
+@media screen and (min-width: 985px) {
+
+   .medical-education-paragraph {
+      padding-bottom: 6px;
+   }
+   
+}
+
+@media screen and (min-width: 992px) {
+
+   .buddhist-philosophy-paragraph {
+      padding-bottom: 0;
+   }
+
+   .medical-education-paragraph {
+      padding-bottom: 54px;
+   }
+
+   .books-publications-paragraph {
+      padding-bottom: 27px;
+   }
+   
+}
+
+@media screen and (min-width: 999px) {
+
+   .buddhist-philosophy-paragraph {
+      padding-bottom: 10px;
+   }
+
+   .medical-education-paragraph {
+      padding-bottom: 34px;
+   }
+
+   .books-publications-paragraph {
+      padding-bottom: 10px;
+   }
+   
+}
+
+@media screen and (min-width: 1004px) {
+
+      .medical-education-paragraph {
+      padding-bottom: 71px;
+   }
+   
+}
+
+@media screen and (min-width: 1049px) {
+
+   .donate-paragraph {
+      padding-bottom: 31px;
+   }
+}
+
+@media screen and (min-width: 1058px) {
+
+   .books-publications-paragraph {
+      padding-bottom: 36px;
+   }
+}
+
+@media screen and (min-width: 1071px) {
+
+   .mission-vision-paragraph {
+      padding-bottom: 9px;
+   }
+
+   .community-projects-paragraph {
+      padding-bottom: 3px;
+   }
+
+   .donate-paragraph {
+      padding-bottom: 3px;
+   }
+
+}
+
+@media screen and (min-width: 1076px) {
+
+   .mission-vision-paragraph {
+      padding-bottom: 36px;
+   }
+
+   .community-projects-paragraph {
+      padding-bottom: 35px;
+   }
+
+}
+
+@media screen and (min-width: 1084px) {
+
+   .community-projects-paragraph {
+      padding-bottom: 60px;
+   }
+
+}
+
+@media screen and (min-width: 1087px) {
+
+   .buddhist-philosophy-paragraph {
+      padding-bottom: 16px;
+   }
+
+   .medical-education-paragraph {
+      padding-bottom: 44px;
+   }
+
+   .books-publications-paragraph {
+      padding-bottom: 9px;
+   }
+
+}
+
+@media screen and (min-width: 1105px) {
+
+   .buddhist-philosophy-paragraph {
+      padding-bottom: 0;
+   }
+
+   .medical-education-paragraph {
+      padding-bottom: 34px;
+   }
+
+   .books-publications-paragraph {
+      padding-bottom: 33px;
+   }
+
+}
+
+@media screen and (min-width: 1150px) {
+
+   .mission-vision-paragraph {
+      padding-bottom: 8px;
+   }
+
+   .community-projects-paragraph {
+      padding-bottom: 31px;
+   }
+
+   .donate-paragraph {
+      padding-bottom: 3px;
+   }
+
+   .medical-education-paragraph {
+      padding-bottom: 33px;
+   }
+
+}
+
+@media screen and (min-width: 1151px) {
+
+   .medical-education-paragraph {
+      padding-bottom: 60px;
+   }
+
+}
+
+@media screen and (min-width: 1269px) {
+
+   .buddhist-philosophy-paragraph {
+      padding-bottom: 4px;
+   }
+
+   .medical-education-paragraph {
+      padding-bottom: 34px;
+   }
+
+   .books-publications-paragraph {
+      padding-bottom: 4px;
+   }
+
+}
+
+@media screen and (min-width: 1270px) {
+
+   .community-projects-paragraph {
+      padding-bottom: 31px;
+   }
+
+   .donate-paragraph {
+      padding-bottom: 31px;
+   }
+
+}
+
+@media screen and (min-width: 1287px) {
+
+   .community-projects-paragraph {
+      padding-bottom: 8px;
+   }
+
+   .donate-paragraph {
+      padding-bottom: 8px;
+   }
+
+}
+
+@media screen and (min-width: 576px) {
+   
+  .hero-image {
+      height: 375px;
+   }
+   
+   .spacer-column {
+      display:none;
+   }
+   
+}
+
+@media screen and (min-width: 764px) {
+   
+   .hero-image {
+       height: 422px;
+    }
+        
+ }
+
+ @media screen and (min-width: 870px) {
+   
+   .hero-image {
+       height: 445px;
+    }
+        
+ }
+
+ @media screen and (min-width: 920px) {
+   
+   .hero-image {
+       height: 481px;
+    }
+        
+ }
+
+ @media screen and (min-width: 992px) {
+   
+   .hero-image {
+       height: 408px;
+    }
+        
+ }
+
+ @media screen and (min-width: 1058px) {
+   
+   .hero-image {
+       height: 447px;
+    }
+        
+ }
+
+ @media screen and (min-width: 1124px) {
+   
+   .hero-image {
+       height: 450px;
+    }
+        
+ }
+
+ @media screen and (min-width: 1168px) {
+   
+   .hero-image {
+       height: 499px;
+    }
+        
+ }
+
+ @media screen and (min-width: 1294px) {
+   
+   .hero-image {
+       height: 530px;
+    }
+        
+ }
+
+@media screen and (max-width: 577px) {
+   .hero-image {
+      height: 284px;
+   }
+   
+}
+
+@media screen and (max-width: 767px) {
+   
+   .homepage-icon-row {
+      display: none;
+   }
+   
+   .chevron-icon {
+      display: none;
+   }
+   
+   .homepage-colored-block-row .col-md {
+      margin-bottom:10px;
+   }
+
+}
+
+@media screen and (max-width: 345px) {
+   
+    #donate-button-mobile {
+      display: none;
+   }
+}
+   
+/*@media screen and (min-width: 992px) {
+   
+    #donate-button {
+      display: none;
+   }
+}*/
+
+@media screen and (min-width: 992px) {
+   
+    .dropdown-divider {
+      display: none;
+   }
+}
+
+@media screen and (min-width: 992px) {
+   
+    .about-mobile, .medical-education-mobile {
+      display: none;
+   }
+}
+
+@media screen and (max-width: 992px) {
+   
+    .dropdown {
+      display: none;
+   }
+}
+
+@media screen and (max-width: 380px) and (min-width: 297px) {
+   .inline-photo {
+      width:100%;
+   }
+}
+
+@media screen and (max-width: 486px) {
+    .book-cover {
+      width:100%;
+   }
+}
+
+
